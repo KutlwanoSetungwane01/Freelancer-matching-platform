@@ -16,7 +16,7 @@ A platform that connects freelancers with job opportunities based on their skill
 
 ## Use Case & Test Case Documentation
 
-- [Use Case Diagram](use_case_diagram.md)
-- [Use Case Specifications](use_case_specifications.md)
-- [Test Cases](test_cases.md)
-- [Reflection](reflection.md)
+- [Use Case Diagram](Use_case_diagram.md)
+- [Use Case Specifications](Use_case_specifications.md)
+- [Test Cases](Test_cases.md)
+- [Reflection](Reflection.md)
