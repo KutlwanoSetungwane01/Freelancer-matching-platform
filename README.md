@@ -42,7 +42,7 @@ Task Assignments and Labels: Tasks were categorized with labels like feature, bu
 
 Automation Features: The "Automated Kanban" template was used for automatic task movement, ensuring up-to-date task statuses.
 
-- [Template analysis](kanban-reflection.md)
+- [Template analysis](kanban-explanation.md)
 - [Reflection](kanban reflection.md)
 
 
