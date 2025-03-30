@@ -10,3 +10,7 @@ How the board looks
 
 
 ![kanban board screenshot](https://github.com/KutlwanoSetungwane01/Freelancer-matching-platform/blob/main/Screenshot%202025-03-30%20195151.png?raw=true)
+
+Linked issues with labels
+
+![kanban board screenshot](https://github.com/KutlwanoSetungwane01/Freelancer-matching-platform/blob/main/Screenshot%202025-03-30%20195423.png?raw=true)
