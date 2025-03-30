@@ -29,3 +29,21 @@ A platform that connects freelancers with job opportunities based on their skill
 - [Sprint Plan](Sprint_plan.md)
 - [Reflection](Reflection.md)
 
+
+## GitHub Project Templates and Kanban Board Implementation (Assignment 7)
+Kanban Board Customization
+I customized the Kanban board to better fit the project's workflow:
+
+‘Testing’ Column: Added to track tasks needing quality assurance (QA) testing, separating development from testing stages.
+
+‘Blocked’ Column: Introduced to identify tasks delayed by external factors, helping the team spot bottlenecks.
+
+Task Assignments and Labels: Tasks were categorized with labels like feature, bug, and enhancement for better organization.
+
+Automation Features: The "Automated Kanban" template was used for automatic task movement, ensuring up-to-date task statuses.
+
+- [Template analysis](kanban-reflection.md)
+- [Reflection](kanban reflection.md)
+
+
+
