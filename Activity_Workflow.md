@@ -131,18 +131,20 @@ This activity covers the feedback loop, crucial for credibility and trust. Revie
 
 
 ## 8. Report Issue Workflow
-
 ```mermaid
 flowchart TD
-    A(Start) --> B[Login]
-    B --> C[Go to "Report Issue"]
+    A[Start] --> B[Login]
+    B --> C[Go to 'Report Issue']
     C --> D[Select issue type]
     D --> E[Describe problem]
-    E --> F[Attach evidence (optional)]
+    E --> F["Attach evidence (optional)"]
     F --> G[Submit report]
-    G --> H[Store report and alert admin]
-    H --> I(End)
+    G --> H[System stores report]
+    H --> I[System alerts admin]
+    I --> J[End]
+
 ```
+
 ## Explanation
 This flow gives users a way to report problems. Attaching evidence helps the admin assess the issue quickly. It supports the system’s requirement for support and conflict resolution, ensuring user protection and platform integrity.
 
