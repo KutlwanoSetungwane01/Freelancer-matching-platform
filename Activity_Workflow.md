@@ -14,7 +14,7 @@ flowchart TD
     E --> J
     J[End]
 ```
-## User Registration - Activity Diagram Explanation
+## Explanation
 
 This workflow shows the full process a user follows when registering. It includes validation, email verification, and account activation. Ensuring only verified users become active aligns with system security and integrity requirements, and supports the functional requirement for account creation.
 
@@ -59,5 +59,91 @@ flowchart TD
 ```
 ## Explanation 
 This workflow helps freelancers apply for jobs. Validation prevents incomplete submissions. Notifying clients ensures fast proposal review, supporting agile response times and enhancing platform usability and responsiveness.
+
+## 4. Create Contract Workflow
+```mermaid
+flowchart TD
+    A(Start) --> B[Client selects proposal]
+    B --> C[Click 'Create Contract']
+    C --> D[Specify payment terms and deadlines]
+    D --> E[Validate contract details]
+    E --> F{Are details valid?}
+    F -- No --> G[Show error]
+    G --> D
+    F -- Yes --> H[Generate contract]
+    H --> I[Store contract]
+    I --> J[Notify freelancer]
+    J --> K(End)
+``` 
+## Explanation
+
+This flow covers creating a contract between a client and freelancer. Validating terms ensures fairness and prevents errors. Notifying the freelancer helps initiate project work promptly, which supports system efficiency and agreement traceability.
+
+
+## 5. Payment Processing Workflow
+```mermaid
+flowchart TD
+    A(Start) --> B[Client initiates payment]
+    B --> C[Enter payment details]
+    C --> D[Validate details]
+    D --> E{Is payment valid?}
+    E -- No --> F[Show error]
+    F --> C
+    E -- Yes --> G[Process payment]
+    G --> H[Update transaction records]
+    H --> I[Notify both parties]
+    I --> J(End)
+```
+
+## Explanation
+This diagram models the payment workflow, focusing on accuracy, validation, and notifications. It aligns with the requirement for secure, traceable financial transactions. This also builds trust and supports real-time payment tracking.
+
+
+## 6. Deliver Work Workflow
+```mermaid
+flowchart TD
+    A(Start) --> B[Freelancer logs in]
+    B --> C[Go to active contract]
+    C --> D[Upload completed work]
+    D --> E[Add message or comments]
+    E --> F[Submit work]
+    F --> G[Notify client]
+    G --> H(End)
+```
+## Explanation
+This diagram highlights how freelancers submit deliverables. Optional messaging fosters communication. Notifying the client ensures timely review, enhancing collaboration and meeting the platform’s delivery-tracking requirement.
+
+---
+## 7. Leave Review Workflow
+```mermaid
+flowchart TD
+    A(Start) --> B[Job marked complete]
+    B --> C[Client/Freelancer logs in]
+    C --> D[Go to 'Leave Review']
+    D --> E[Write rating and comment]
+    E --> F[Submit review]
+    F --> G[Validate and store review]
+    G --> H[Update user profile]
+    H --> I(End)
+```
+## Explanation
+This activity covers the feedback loop, crucial for credibility and trust. Reviews are validated and stored, and profiles updated to reflect performance. This supports platform transparency and enhances decision-making for future collaborations.
+
+
+## 8. Report Issue Workflow
+
+```mermaid
+flowchart TD
+    A(Start) --> B[Login]
+    B --> C[Go to "Report Issue"]
+    C --> D[Select issue type]
+    D --> E[Describe problem]
+    E --> F[Attach evidence (optional)]
+    F --> G[Submit report]
+    G --> H[Store report and alert admin]
+    H --> I(End)
+```
+## Explanation
+This flow gives users a way to report problems. Attaching evidence helps the admin assess the issue quickly. It supports the system’s requirement for support and conflict resolution, ensuring user protection and platform integrity.
 
 
