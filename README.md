@@ -46,9 +46,11 @@ Automation Features: The "Automated Kanban" template was used for automatic task
 - [Reflection](kanban-reflection.md)
 
 ## Assignment 8
-- [Diagrams and Explanations](Object_User Account.md)
-- [Reflection](Assignment 8_Reflection.md)
-- 
+
+- [User Account - Object State Diagram](Object_User%20Account.md)
+- [Workflow Activity Diagram](Activity_Workflow.md)
+- [Assignment 8 Reflection](Assignment%208_Reflection.md)
+ 
 
 
 
