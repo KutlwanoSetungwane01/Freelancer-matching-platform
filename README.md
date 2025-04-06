@@ -45,7 +45,9 @@ Automation Features: The "Automated Kanban" template was used for automatic task
 - [Template analysis](kanban-explanation.md)
 - [Reflection](kanban-reflection.md)
 
-## Assignment 8
+## Object State Modeling and Activity Workflow Modeling (Assignment 8)
+
+In this assignment, I focused on modeling the dynamic behavior and workflows of the freelancer matching platform. The task involved creating State Transition Diagrams for key objects such as User Accounts and Projects to define their lifecycles, and Activity Diagrams to map out complex processes like user registration and project creation. These diagrams were designed to align with functional requirements and use cases to provide a clear understanding of the system's behavior. Additionally, I reflected on the challenges of designing the state transitions and workflows, balancing detail with clarity. 
 
 - [User Account - Object State Diagram](Object_User%20Account.md)
 - [Workflow Activity Diagram](Activity_Workflow.md)
