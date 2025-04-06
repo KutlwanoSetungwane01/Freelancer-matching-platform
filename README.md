@@ -45,5 +45,8 @@ Automation Features: The "Automated Kanban" template was used for automatic task
 - [Template analysis](kanban-explanation.md)
 - [Reflection](kanban-reflection.md)
 
+## Assignment 8
+[Diagrams and Explanations](
+
 
 
