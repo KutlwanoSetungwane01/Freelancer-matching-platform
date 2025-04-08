@@ -54,15 +54,12 @@ In this assignment, I focused on modeling the dynamic behavior and workflows of 
 - [Assignment 8 Reflection](Assignment%208_Reflection.md)
 
  ## Object-Oriented Design for a Freelancer Job Matching Platform (Assignment 9)
+This assignment focuses on object-oriented design for the Freelancer Job Matching Platform. It includes a domain model outlining system objects and their relationships, a UML class diagram created with Mermaid.js, and a reflection discussing design challenges, choices, and how the system aligns with previous work like user stories and state diagrams.
 
-## Included Files
-- `domain_model.md`: Domain model table with key system objects and relationships.
-- `class_diagram.md`: UML class diagram using Mermaid.js syntax.
-- `reflection.md`: Summary of design challenges, decisions, and alignment with earlier work.
+- [Domain Model](domain_model.md)
+- [Class Diagram](class_diagram.md)
+- [Assignment 9 Reflection](Assignment%209%20Reflection.md)
 
-
-
-.
 
 
 
