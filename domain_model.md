@@ -10,3 +10,6 @@
 | **Message**   | messageId, senderId, receiverId, content, timestamp                | Exchanged between Users                                                  |
 | **Review**    | reviewId, rating, comment, reviewerId, reviewedUserId              | Given by one User to another after a Contract                            |
 | **Payment**   | paymentId, amount, date, status                                     | Linked to a Contract                                                     |
+
+
+The system revolves around two main roles: freelancers and employers. Each user creates a profile. Employers can post jobs, and freelancers can submit proposals. Once a proposal is accepted, a contract is created and linked to payment. Messaging allows communication, while reviews help maintain quality. This class diagram reflects a scalable and modular design for matching freelancers with jobs, supporting Agile principles of separation of concerns and iteration.
