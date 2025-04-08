@@ -52,7 +52,18 @@ In this assignment, I focused on modeling the dynamic behavior and workflows of 
 - [User Account - Object State Diagram](Object_User%20Account.md)
 - [Workflow Activity Diagram](Activity_Workflow.md)
 - [Assignment 8 Reflection](Assignment%208_Reflection.md)
- 
+
+ ## Object-Oriented Design for a Freelancer Job Matching Platform (Assignment 9)
+
+## Included Files
+- `domain_model.md`: Domain model table with key system objects and relationships.
+- `class_diagram.md`: UML class diagram using Mermaid.js syntax.
+- `reflection.md`: Summary of design challenges, decisions, and alignment with earlier work.
+
+
+
+.
+
 
 
 
