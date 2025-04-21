@@ -61,6 +61,15 @@ This assignment focuses on object-oriented design for the Freelancer Job Matchin
 - [Assignment 9 Reflection](Assignment%209%20Reflection.md)
 
 
+## 📦 Assignment 10
+
+This assignment includes class implementations and all six major creational design patterns for the Freelancer Job Matching Platform.
+
+### 🔗 Quick Links
+- [Source Code (Core Classes)](Assignment_10/src)
+- [Creational Patterns](Assignment_10/creational_patterns)
+
+
 
 
 
