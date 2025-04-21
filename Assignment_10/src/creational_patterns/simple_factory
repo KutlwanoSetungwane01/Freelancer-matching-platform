@@ -17,3 +17,15 @@ class Freelancer(User):
 class Employer(User):
     def __init__(self, user_id, name, email):
         super().__init__(user_id, name, email, role="employer")
+
+
+
+class UserFactory:
+    @staticmethod
+    def create_user(user_type, user_id, name, email):
+        if user_type.lower() == "freelancer":
+            return Freelancer(user_id, name, email)
+        elif user_type.lower() == "employer":
+            return Employer(user_id, name, email)
+        else:
+            raise ValueError("Invalid user type")
