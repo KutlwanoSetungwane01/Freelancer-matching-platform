@@ -1,0 +1,19 @@
+class User:
+    def __init__(self, user_id, name, email, role):
+        self.user_id = user_id
+        self.name = name
+        self.email = email
+        self.role = role
+
+    def describe(self):
+        return f"{self.name} is a {self.role}"
+
+
+class Freelancer(User):
+    def __init__(self, user_id, name, email):
+        super().__init__(user_id, name, email, role="freelancer")
+
+
+class Employer(User):
+    def __init__(self, user_id, name, email):
+        super().__init__(user_id, name, email, role="employer")
