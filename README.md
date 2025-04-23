@@ -69,6 +69,16 @@ This assignment includes class implementations and all six major creational desi
 - [Source Code (Core Classes)](Assignment_10/src)
 - [Reflection (Assignment 10)](Reflection-assignment%2010.md)
 
+## 📦 Assignment 11 – Repository Pattern Implementation
+
+### 🔗 Key Files and Folders
+
+- [Repository Interfaces](Assignment_11/repositories) – Generic and entity-specific interfaces
+- [In-Memory Repositories](Assignment_11/repositories/inmemory) – HashMap-based implementations
+- [Factory Class](Assignment_11/factories/RepositoryFactory.py) – Storage abstraction using the Factory Pattern
+- [Class Diagram](Assignment_11/class_diagram.md) – Updated UML diagram with repository relationships
+- [Reflection](Assignment_11/Reflection.md) – Personal reflection on the assignment, challenges, and learnings
+
 
 
 
