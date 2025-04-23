@@ -61,17 +61,17 @@ This assignment focuses on object-oriented design for the Freelancer Job Matchin
 - [Assignment 9 Reflection](Assignment%209%20Reflection.md)
 
 
-## 📦 Assignment 10
+##  Assignment 10
 
 This assignment includes class implementations and all six major creational design patterns for the Freelancer Job Matching Platform.
 
-### 🔗 Quick Links
+### Quick Links
 - [Source Code (Core Classes)](Assignment_10/src)
 - [Reflection (Assignment 10)](Reflection-assignment%2010.md)
 
-## 📦 Assignment 11 – Repository Pattern Implementation
+##  Assignment 11 – Repository Pattern Implementation
 
-### 🔗 Key Files and Folders
+### Key Files and Folders
 
 - [Repository Interfaces](Assignment_11/repositories) – Generic and entity-specific interfaces
 - [In-Memory Repositories](Assignment_11/repositories/inmemory) – HashMap-based implementations
