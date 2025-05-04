@@ -80,6 +80,28 @@ This assignment includes class implementations and all six major creational desi
 - [Reflection](Assignment_11/Reflection.md) – Personal reflection on the assignment, challenges, and learnings
 
 
+# Assignment 12 – Service Layer and REST API
+
+##  File Structure and Links
+
+- [`services`](./services): Business logic for `Contract`, `JobPost`, and `Proposal`
+- [`api`](./api): REST API endpoints for the same three entities
+- [`tests`](./tests): Unit tests (manually created)
+- [`main.py`](./main.py): Main app file intended for FastAPI
+- [`docs`](./docs): API documentation (screenshot not available due to run issues)
+- [`assignment 12_reflection.md`](./Reflection.md): Reflection on challenges during the assignment
+- [`GitHub_Updates.md`](./GitHub_Updates.md): Summary of GitHub issues and progress
+
+## ⚠️ Notes
+
+Due to persistent errors in GitHub Codespaces, the app could not be successfully run using FastAPI and Uvicorn. As a result, Swagger documentation and API testing could not be completed in the browser. However, the code structure follows all assignment requirements.
+
+
+
+
+
+
+
 
 
 
