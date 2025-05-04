@@ -82,7 +82,8 @@ This assignment includes class implementations and all six major creational desi
 
 # Assignment 12 – Service Layer and REST API
 
-##  File Structure and Links
+## Link to the assignemt
+
 -[Assignment 12](./Assignment_12)
 
 ## ⚠️ Notes
