@@ -83,14 +83,7 @@ This assignment includes class implementations and all six major creational desi
 # Assignment 12 – Service Layer and REST API
 
 ##  File Structure and Links
-
-- [`services`](./services): Business logic for `Contract`, `JobPost`, and `Proposal`
-- [`api`](./api): REST API endpoints for the same three entities
-- [`tests`](./tests): Unit tests (manually created)
-- [`main.py`](./main.py): Main app file intended for FastAPI
-- [`docs`](./docs): API documentation (screenshot not available due to run issues)
-- [`assignment 12_reflection.md`](./Reflection.md): Reflection on challenges during the assignment
-- [`GitHub_Updates.md`](./GitHub_Updates.md): Summary of GitHub issues and progress
+-[Assignment 12](./Assignment_12)
 
 ## ⚠️ Notes
 
