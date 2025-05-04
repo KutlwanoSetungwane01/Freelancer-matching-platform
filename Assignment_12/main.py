@@ -13,8 +13,6 @@ app.include_router(jobpost_routes.router, prefix="/jobs", tags=["Job Posts"])
 app.include_router(proposal_routes.router, prefix="/proposals", tags=["Proposals"])
 
 
-
-
 from fastapi import FastAPI
 from services import jobpost_routes
 
@@ -26,3 +24,12 @@ app.include_router(jobpost_routes.router)
 @app.get("/")
 def read_root():
     return {"message": "Hello, FastAPI!"}
+
+from fastapi import FastAPI
+from Assignment_12.api import proposal_api
+
+app = FastAPI()
+
+# Register the Proposal API routes
+app.include_router(proposal_api.router)
+
