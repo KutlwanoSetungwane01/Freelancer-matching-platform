@@ -137,7 +137,7 @@ Screenshots were taken showing:
   ## 📸 Assignment 13 Screenshots
 
 ### Pull Request
-![Pull Request](screenshort(1).png)
+![Pull Request](Screenshort(1).png)
 
 ### CI/CD Workflow File
 ![CI/CD File](screenshots/ci-file.png)
