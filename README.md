@@ -148,7 +148,7 @@ Screenshots were taken showing:
 ![CD Artifact](screenshots/Screenshot (3).png)
 
 ### ✅ Pull Request Blocked by Failing Test
-![Failing Test PR](screenshots/Screenshot (4).png)
+![Failing Test PR](https://github.com/KutlwanoSetungwane01/Freelancer-matching-platform/blob/KutlwanoSetungwane01-patch-2/Screenshot%20(2).png?raw=true)
 
 
 
