@@ -139,7 +139,7 @@ Screenshots were taken showing:
 ## 📸 Assignment 13 Screenshots
 
 ### ✅ Branch Protection Rules
-![Branch Protection](screenshots/Screenshot (1).png)
+![Branch Protection](https://github.com/KutlwanoSetungwane01/Freelancer-matching-platform/blob/KutlwanoSetungwane01-patch-2/Screenshot%20(1).png?raw=true)
 
 ### ✅ CI Pipeline – GitHub Actions
 ![CI Workflow](screenshots/Screenshot (2).png)
