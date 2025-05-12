@@ -136,14 +136,20 @@ Screenshots were taken showing:
 - The contents of ci.yml.
   ## 📸 Assignment 13 Screenshots
 
-### Pull Request
-![Pull Request](Screenshort(1).png)
+## 📸 Assignment 13 Screenshots
 
-### CI/CD Workflow File
-![CI/CD File](screenshots/ci-file.png)
+### ✅ Branch Protection Rules
+![Branch Protection](screenshots/Screenshot (1).png)
 
-### GitHub Actions Workflow
-![Actions Status](screenshots/actions-status.png)
+### ✅ CI Pipeline – GitHub Actions
+![CI Workflow](screenshots/Screenshot (2).png)
+
+### ✅ CD Pipeline – Artifact Generation
+![CD Artifact](screenshots/Screenshot (3).png)
+
+### ✅ Pull Request Blocked by Failing Test
+![Failing Test PR](screenshots/Screenshot (4).png)
+
 
 
 The workflow execution status in the Actions tab.
