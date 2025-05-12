@@ -141,15 +141,9 @@ Screenshots were taken showing:
 ### ✅ Branch Protection Rules
 ![Branch Protection](https://github.com/KutlwanoSetungwane01/Freelancer-matching-platform/blob/KutlwanoSetungwane01-patch-2/Screenshot%20(1).png?raw=true)
 
-### ✅ CI Pipeline – GitHub Actions
-![CI Workflow](screenshots/Screenshot (2).png)
-
-### ✅ CD Pipeline – Artifact Generation
-![CD Artifact](screenshots/Screenshot (3).png)
 
 ### ✅ Pull Request Blocked by Failing Test
 ![Failing Test PR](https://github.com/KutlwanoSetungwane01/Freelancer-matching-platform/blob/KutlwanoSetungwane01-patch-2/Screenshot%20(2).png?raw=true)
-
 
 
 The workflow execution status in the Actions tab.
