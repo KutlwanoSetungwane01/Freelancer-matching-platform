@@ -158,6 +158,12 @@ Due to repository restrictions, the final merge was not possible without collabo
 - [Reflection](assignment14-docs/Reflection.md)
 - [Voting Results](assignment14-docs/VOTING_RESULTS.md)
 
+## Documentation (Preview from patch branch)
+
+- [Contributing Guidelines](https://github.com/YourUsername/YourRepoName/blob/KutlwanoSetungwane01-patch-4/assignment14-docs/CONTRIBUTING.md)
+- [Project Roadmap](https://github.com/YourUsername/YourRepoName/blob/KutlwanoSetungwane01-patch-4/assignment14-docs/ROADMAP.md)
+- [Reflection](https://github.com/YourUsername/YourRepoName/blob/KutlwanoSetungwane01-patch-4/assignment14-docs/Reflection.md)
+- [Voting Results](https://github.com/YourUsername/YourRepoName/blob/KutlwanoSetungwane01-patch-4/assignment14-docs/VOTING_RESULTS.md)
 
 
 
