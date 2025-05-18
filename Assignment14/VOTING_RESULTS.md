@@ -7,8 +7,8 @@ https://github.com/KutlwanoSetungwane01/Freelancer-matching-platform
 
 | Criteria               | Count |
 |------------------------|-------|
-| ⭐ Stars                | 37    |
-| 🍴 Forks               | 25    |
+| ⭐ Stars                | 38    |
+| 🍴 Forks               | 26    |
 
 
 ## Notes
