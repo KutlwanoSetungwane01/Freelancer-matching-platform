@@ -155,7 +155,7 @@ Due to repository restrictions, the final merge was not possible without collabo
 
 ## Assignment 14 Documentation
 
-Please note that my Assignment 14 documents (including CONTRIBUTING.md, ROADMAP.md, REFLECTION.md, and VOTING_RESULTS.md) are located on the branch named KutlwanoSetungwane01-patch-4 and not on the main branch.
+Please note that my Assignment 14 documents (including Readme, CONTRIBUTING.md, ROADMAP.md, REFLECTION.md, and VOTING_RESULTS.md) are located on the branch named KutlwanoSetungwane01-patch-4 and not on the main branch.
 
 This is due to branch protection rules and merge errors I encountered while attempting to merge into main. Despite multiple attempts, the pull request could not be approved because it requires a CI check or reviewer approval, which I couldn't complete.
 
