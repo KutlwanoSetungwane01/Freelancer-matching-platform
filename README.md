@@ -160,6 +160,15 @@ This is due to branch protection rules and merge errors I encountered while atte
 All required files are correctly uploaded and can be reviewed on the KutlwanoSetungwane01-patch-4 branch under the folder assignment14-docs.
 
 
+## Documentation
+
+- [Contributing Guidelines](assignment14-docs/CONTRIBUTING.md)
+- [Project Roadmap](assignment14-docs/ROADMAP.md)
+- [Reflection](assignment14-docs/Reflection.md)
+- [Voting Results](assignment14-docs/VOTING_RESULTS.md)
+
+
+
 
 
 
