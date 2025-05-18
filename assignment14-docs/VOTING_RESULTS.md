@@ -1,7 +1,7 @@
 # Voting Results
 
 ## Repository Link
-[Your GitHub Repository URL Here]
+https://github.com/KutlwanoSetungwane01/Freelancer-matching-platform
 
 ## Peer Review Results
 
@@ -9,7 +9,7 @@
 |------------------------|-------|
 | ⭐ Stars                | 37    |
 | 🍴 Forks               | 25    |
-| ✅ Pull Requests Merged | 0     |
+
 
 ## Notes
 - Voting is still ongoing.
