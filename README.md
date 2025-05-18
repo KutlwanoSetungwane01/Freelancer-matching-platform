@@ -151,7 +151,6 @@ The workflow execution status in the Actions tab.
 ## Notes
 Due to repository restrictions, the final merge was not possible without collaboration or instructor override. However, all technical CI/CD requirements were implemented and verified.
 
-## Assignment 14 Documentation
 
 ## Assignment 14 Documentation
 
